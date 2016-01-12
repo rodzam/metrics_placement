@@ -1,0 +1,11 @@
+# This is the config file for the database connection; be sure to rename settings.conf for operation
+
+["MySQL Settings"]
+mysql_host = "localhost"
+mysql_username = "" # Username to access MySQL database
+mysql_password = "" # Password to access MySQL database
+mysql_database = "" # Database for storing the tables
+mysql_table = "" # Table name for storing the parsed data
+mysql_log = "" # Table name for storing error/debug information
+
+# Great, now just run the Python scripts
