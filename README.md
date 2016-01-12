@@ -1,7 +1,6 @@
 Metrics Placement Project
 ====================
 Author: Rodrigo Zamith
-Version: 2.0
 
 Description
 -----
